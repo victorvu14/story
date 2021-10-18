@@ -1,3 +1,5 @@
 This is me Victor 
 
 Git add chapter1.txt // use this to add the chapter1 into git repository
+Git commit -m "first commit" // to commit out of staging area
+Git status // to check the file in staging area
