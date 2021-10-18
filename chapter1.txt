@@ -3,3 +3,6 @@ This is me Victor
 Git add chapter1.txt // use this to add the chapter1 into git repository
 Git commit -m "first commit" // to commit out of staging area
 Git status // to check the file in staging area
+Git log // checking the log in what have been committed to repository 
+Git diff chapter3.txt // checking what have been changed to the file
+Git checkout chapter3.txt // revert the file back to the previous version at the last checkpoint that has been committed
