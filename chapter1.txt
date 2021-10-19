@@ -6,3 +6,18 @@ Git status // to check the file in staging area
 Git log // checking the log in what have been committed to repository 
 Git diff chapter3.txt // checking what have been changed to the file
 Git checkout chapter3.txt // revert the file back to the previous version at the last checkpoint that has been committed
+
+Git remote add origin https://github.com/victorvu14/story.git // add repository to remotely
+
+Git push -u origin master // push the repository to the master
+
+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
+
+Touch .gitignore // to create git ignore file
+Git rm --cached -r . //remove all files from the add staging area
+Open .gitignore // write the file name that we want to ignore
+
+Git clone <url> // clone a project form someone else 
+Git branch second-branch // creating a new branch separate from master
+Git branch // to check all the branches available 
+Git checkout second-branch // switch to the second-brand
