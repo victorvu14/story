@@ -21,3 +21,4 @@ Git clone <url> // clone a project form someone else
 Git branch second-branch // creating a new branch separate from master
 Git branch // to check all the branches available 
 Git checkout second-branch // switch to the second-brand
+Type q or z to get out of git log
